@@ -202,5 +202,6 @@
     }
     audio {
       width: 250px;
+      opacity: .5;
     }
   }
