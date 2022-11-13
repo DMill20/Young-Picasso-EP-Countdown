@@ -71,7 +71,8 @@
     justify-content: center;
     color: #fff;
     border-radius: 50px;
-    opacity: .6;
+    opacity: .7;
+    font-family: "Roboto";
   }
   
   h1 {
@@ -102,7 +103,7 @@
   }
 
 .audio{
-    opacity: .5;
+    opacity: .6;
 }
   .particle {
     opacity: 0;
